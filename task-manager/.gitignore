@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Build files
+dist/
+.vite/
+.temp/
+
+# Environment variables
+.env
+.env.local
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+.DS_Store
